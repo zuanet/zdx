@@ -35,7 +35,7 @@
     "@grpc/grpc-js": "1.6.10",
     "@grpc/proto-loader": "0.7.2",
     "@zua/grpc-node": ">=1.0.8",
-    "@zua/ux": "github:aspectron/zua-ux",
+    "@zua/ux": "github:zuanet/zua-ux",
     "@zua/wallet-worker": ">=1.1.25",
     "@runonflux/nat-upnp": "1.0.2",
     "@webcomponents/webcomponentsjs": "2.6.0",
