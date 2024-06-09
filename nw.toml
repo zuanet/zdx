@@ -66,7 +66,7 @@ copy = [
 [[dependency]]
 name = "zua-miner"
 platform = ["windows", "linux"]
-git = { url = "https://github.com/aspectron/zua-miner", branch = "main" }
+git = { url = "https://github.com/aspectron/kaspa-miner", branch = "main" }
 run = [{ argv = ["cargo","build","--release","-p","zuacuda"] }]
 copy = [
     { regex = [
