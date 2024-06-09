@@ -13,7 +13,7 @@ const E = new Emanator(__dirname, {
     suffix : flags.full ? '-dev' : '',
     title : 'Zua-Desktop',
     banner : 'Zua-Desktop',
-    git : 'git@github.com:aspectron/zua-desktop',
+    git : 'git@github.com:zuanet/zua-desktop',
     author : "ASPECTRON Inc.",
     url : "http://aspectron.com",
     //archive : true,
