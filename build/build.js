@@ -210,8 +210,8 @@ Where <flags> are:
             repos.zua = ['zuad'];
         
             for(const repo of repos.zua) {
-                this.log(`git clone git@github.com:zuadanet/${repo}`);
-                await this.clone(`git@github.com:zuadanet/${repo}`, dest, {branch});
+                this.log(`git clone git@github.com:zuanet/${repo}`);
+                await this.clone(`git@github.com:zuanet/${repo}`, dest, {branch});
             }
             
             if(this.args['with-extras']) {
